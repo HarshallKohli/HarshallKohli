@@ -3,11 +3,11 @@
 <h3 align="center">A Creative Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
-- 🌱 I’m currently learning **to study data online with APIs**
+- 🌱 I’m currently learning **to study data with APIs, and designing applications for machines.**
 
-- 💬 Ask me about **game development with python**
+- 💬 Ask me about **software application designing and creative thinking in tech.**
 
-- ⚡ Fun fact **I can speak some Japanese.**
+- ⚡ Fun fact **This is only the beginning. There's a lot of skills to equip, collaborations to be made, and exciting projects to work and compound on :)**
 
 
 
