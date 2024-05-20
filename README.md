@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **software application designing and creative thinking in tech.**
 
-- ⚡ Fun fact **This is only the beginning. There's a lot of skills to equip, collaborations to be made, and exciting projects to work and compound on :)**
+- ⚡ Fun fact **: This is only the beginning. There's a lot of skills to equip, collaborations to be made, and exciting projects to work and compound on :)**
 
 
 
